@@ -26,6 +26,7 @@ Move toward a modern dashboard with a health score, plain-language insights, sce
 - docs/07_Risk_And_Simulation.md
 - docs/08_Design_System.md
 - docs/09_Decision_Log.md
+- docs/10_Data_Storage.md
 - prompts/Claude_Master_Prompt.md
 - prompts/Codex_Build_Prompt.md
 
